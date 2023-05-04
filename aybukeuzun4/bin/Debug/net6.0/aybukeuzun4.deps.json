@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "aybukeuzun4/1.0.0": {
+        "runtime": {
+          "aybukeuzun4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aybukeuzun4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
